@@ -4,7 +4,7 @@ from __future__ import absolute_import
 from .pyjokes import get_joke, get_jokes
 
 
-__project__ = "pyjokes"
+__project__ = "test-ciautobump"
 __version__ = "develop"
 __keywords__ = ["pyjokes", "pyjokes", "jokes", "joke"]
 __author__ = "Pyjokes Society"
