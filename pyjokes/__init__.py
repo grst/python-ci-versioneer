@@ -20,16 +20,7 @@ __classifiers__ = [
     "Programming Language :: Python :: 3",
 ]
 
-__entry_points__ = {
-    "console_scripts": [
-        "pyjoke = pyjokescli.pyjoke:main",
-        "pyjokes = pyjokescli.pyjokes:main",
-    ],
-}
-
 __requires__ = []
 
 __extra_requires__ = {
-    "doc": ["mkdocs"],
-    "test": ["pytest", "coverage", "tox"],
 }
