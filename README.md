@@ -1,3 +1,7 @@
+**UPDATE 2021-10-12: If you want to use this approach, you should look into [dunamai](https://github.com/mtkennerly/dunamai) which 
+is a lot more mature. The README contains a section about including a version statically, which could be combined with CI.**
+
+
 # CI-Versioneer
 
 This repo is a proof-of-concept for an alternative to approaches like
